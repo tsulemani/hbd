@@ -1,0 +1,98 @@
+.outer {
+  width: 300px;
+  margin: 0 auto;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 50%;
+  padding: 5px;
+  width: 200px;
+  height: 200px;
+  box-shadow: 5px 5px 5px #c2c0c0;
+}
+
+#a1 {
+  box-shadow: 5px 5px 5px #c2c0c0;
+}
+
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+/*# sourceMappingURL=webstyle.css.map */
+.cls2, .cls1, .div1 {
+  text-align: center;
+  color: #428bca;
+}
+
+.head2 {
+  text-align: center;
+  color: #428bca;
+  padding: 35px;
+  margin-top: 35px;
+}
+
+.div1 {
+  width: 80%;
+  margin: auto;
+  position: relative;
+  text-align: center;
+}
+
+.div1 > p {
+  line-height: 1.5;
+  margin: 40px 0 20px 0;
+}
+
+.cls2 {
+  padding: 4%;
+  margin-top: 20px;
+  margin: 4%;
+  border-radius: 1%;
+  background-color: #f9f9f9;
+  box-shadow: 10px 10px 10px #c2c0c0;
+}
+
+/*# sourceMappingURL=index.css.map */
