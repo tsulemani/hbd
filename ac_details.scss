@@ -15,17 +15,18 @@ box-shadow: 5px 5px 5px #c2c0c0;
 
 
 
-@media(min-width:800px){
+
   .outer{
     width: 90%;
      box-shadow: 5px 5px 5px #c2c0c0;
    }
 
 
-}
+
 @media(max-width:700px){
      table {
-           width: 100%;
+           width: 90%;
+
         }
       }
       @media(min-width:700px){
